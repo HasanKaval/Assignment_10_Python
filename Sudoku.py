@@ -1,3 +1,5 @@
+# This is just a formatting exercise
+
 sudoku = [
     [0, 0, 0, 0, 6, 4, 0, 0, 0],
     [7, 0, 0, 0, 0, 0, 3, 9, 0],
